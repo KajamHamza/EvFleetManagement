@@ -226,21 +226,6 @@ EvFleetManagement/
 - OpenAPI 3.0 specification for all endpoints
 - Authentication and authorization examples
 
-## 🤝 Contributing
-
-### Getting Started
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Follow the coding standards for each component
-4. Write tests for new functionality
-5. Submit a pull request
-
-### Coding Standards
-- **Backend**: Follow Java coding conventions and Spring Boot best practices
-- **Frontend**: Use ESLint configuration and TypeScript strict mode
-- **Documentation**: Update README files for significant changes
-- **Testing**: Maintain test coverage for critical functionality
-
 ## 🔧 Troubleshooting
 
 ### Common Issues
