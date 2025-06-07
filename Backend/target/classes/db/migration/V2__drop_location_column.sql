@@ -1,0 +1,1 @@
+ALTER TABLE charging_stations DROP COLUMN IF EXISTS location; 
